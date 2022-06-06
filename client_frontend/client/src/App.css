@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+html {
+      scroll-behavior: smooth;
+      overflow-x: hidden;
+  }
+
+body {
+    font-family: cursive;
+  }
+
+
+footer,
+.lower__footer {
+    margin: 0 5vw;
+    
+  }
+
+section {
+    /* margin-top: 5rem; */
+    margin-bottom: 5rem;
+    margin-right: 2rem;
+
+}
+
+.productstyle {
+  /* margin-top: 4rem; */
+  margin-left: 4rem;
+   margin-right: 4rem;
+  margin-bottom: 8rem;;
+  
+} 
+
+.contactpage{
+  /* background-color: #8b72be; */
+   /* margin-top: 4rem; */
+   /* margin-bottom: 5rem; */
+   margin-left: 4rem;
+   margin-right: 4rem;
+}
+
